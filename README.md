@@ -29,7 +29,7 @@ A Simple **.sh & .py Script** with python web to make your Repo Deployable to He
 
 <div align="center">
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/SilentDemonSD/pyTele-Loader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/matizxe/pyTele-Loader)
 
 </div
 
@@ -40,7 +40,7 @@ A Simple **.sh & .py Script** with python web to make your Repo Deployable to He
 <div align="center">
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&env[REPO_URL]=%20&env[REPO_BRANCH]=%20&env[START_CMD]=%20&env[BASE_URL]=%20&region=fra&region=par&repository=github.com/SilentDemonSD/pyTele-Loader&branch=main)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&env[REPO_URL]=%20&env[REPO_BRANCH]=%20&env[START_CMD]=%20&env[BASE_URL]=%20&region=fra&region=par&repository=github.com/matizxe/pyTele-Loader&branch=main)
 
 </div>
 
@@ -50,7 +50,7 @@ A Simple **.sh & .py Script** with python web to make your Repo Deployable to He
 
 <div align="center">
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/SilentDemonSD/pyTele-Loader) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/matizxe/pyTele-Loader) 
 
 </div>
 
@@ -63,7 +63,7 @@ A Simple **.sh & .py Script** with python web to make your Repo Deployable to He
 
 <div align="center">
 
-[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/SilentDemonSD/pyTele-Loader#main)
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/matizxe/pyTele-Loader#main)
 
 </div>
 
